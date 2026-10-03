@@ -1,3 +1,5 @@
+> **This plugin now lives in [rawtreedb/agent-skills](https://github.com/rawtreedb/agent-skills). This repo is archived.**
+
 # RawTree for Cursor
 
 Cursor plugin that connects agents to [RawTree](https://rawtree.com) through RawTree's official hosted [Model Context Protocol](https://modelcontextprotocol.io/) server, and bundles the official RawTree agent skill.
